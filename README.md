@@ -10,7 +10,7 @@ The application's main interface is designed using **Tkinter**, while **OpenCV**
 
 ### Main Tkinter Interface
 
-![Face Recognition Attendance System GUI](attendance-gui.png)
+![Face Recognition Attendance System GUI](attendance-gui.png.png)
 ## Technologies Used
 
 - **Python** – Main programming language.
