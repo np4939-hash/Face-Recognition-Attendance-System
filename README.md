@@ -6,7 +6,11 @@
 The **Face Recognition Attendance System** is a desktop application developed using **Python and Tkinter**. It provides a graphical user interface (GUI) that allows users to register students, capture their facial images, train a face recognition model, and automatically record attendance.
 
 The application's main interface is designed using **Tkinter**, while **OpenCV** is used for webcam access, face detection, and face recognition.
+## GUI Screenshots
 
+### Main Tkinter Interface
+
+![Face Recognition Attendance System GUI](attendance-gui.png)
 ## Technologies Used
 
 - **Python** – Main programming language.
